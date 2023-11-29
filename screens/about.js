@@ -78,11 +78,11 @@ const AboutScreen = () => {
             </HStack>
             <HStack justifyContent={"space-between"}>
               <Text fontWeight={"bold"}>Update on</Text>
-              <Text>December 11, 2022</Text>
+              <Text>December 11, 2023</Text>
             </HStack>
             <HStack justifyContent={"space-between"}>
               <Text fontWeight={"bold"}>Created By</Text>
-              <Text>Muhamad Arsyad</Text>
+              <Text>Everald Anthony</Text>
             </HStack>
           </VStack>
         </Box>
